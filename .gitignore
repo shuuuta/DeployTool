@@ -1,0 +1,8 @@
+.DS_Store
+thumbs.db
+__MACOSX
+._*
+error_log
+.htaccess
+.ftpquota
+deploy_log.log
